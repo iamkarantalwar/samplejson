@@ -48,14 +48,16 @@
             "name":"FLAT",
             "code":"CSE 401",
             "t_name":"Er.Harpreet kaur",
-            "sem":"7th"
+            "sem":"7th",
+            "status":false
         },
          {
             "id":18,
             "name":"WC",
             "sem":"7th",
             "code":"CSE415",
-             "t_name":"Er. Gurpreet Singh"
+             "t_name":"Er. Gurpreet Singh",
+             "status":false
 
         },
          {
@@ -63,7 +65,8 @@
             "name":"CI",
             "sem":"7th",
             "code":"CSE403",
-             "t_name":"Er. Gurpreet Singh "
+             "t_name":"Er. Gurpreet Singh ",
+             "status":false
 
         },
          {
@@ -71,7 +74,8 @@
              "name":"TWP",
             "sem":"7th",
             "code":"Eng 401",
-             "t_name":"Mrs.Vasuda"
+             "t_name":"Mrs.Vasuda",
+             "status":false
 
         },
          {
@@ -79,7 +83,8 @@
             "name":"MGT",            
             "sem":"7th",
             "code":"MGT 471",
-             "t_name":"Ms.Gurdeep kaur"
+             "t_name":"Ms.Gurdeep kaur",
+             "status":false
 
         },
          {
@@ -87,7 +92,8 @@
             "name":"MM",
             "sem":"7th",
             "code":"CSE411",
-            "t_name":"Er.Gurjit kaur"
+            "t_name":"Er.Gurjit kaur",
+            "status":false
 
         }
     ]
